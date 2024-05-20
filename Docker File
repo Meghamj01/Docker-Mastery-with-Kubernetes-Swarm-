@@ -1,0 +1,5 @@
+From Python 
+RUN PIP install flask
+WORKDIR /app
+Copy..
+CMD Python app.py
