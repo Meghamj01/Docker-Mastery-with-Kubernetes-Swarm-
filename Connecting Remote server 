@@ -1,0 +1,2 @@
+ssh root@143.244.158.151
+export Docker_Host = ssh://root@143.244.158.151
