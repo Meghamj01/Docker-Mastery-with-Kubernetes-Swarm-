@@ -1,0 +1,59 @@
+Docker Version 
+
+Docker info 
+
+Docker Contained run
+
+Docker run (old version)
+
+Docker Command line Structure (CLI)
+
+
+
+
+Docker Container run --publish 80:80 nginx
+
+   #(above command looks fornan image called "nginx')
+
+
+#We can't use the same left part of the port used by anything else.
+
+
+
+Docker Stop <containerid/name>
+
+Docker Container stop 690
+
+
+Docker Container ls -a
+
+Docker Container run 
+
+Docker Container Start 
+
+
+Docker Container run --publish 80:80 --detach --name webhost nginx
+
+
+Docker Container logs
+
+#above command shoes a logs for specific container 
+
+
+#Example
+
+Docker Container logs webhost 
+
+Docker Container Top webhost 
+
+Docker Container --help
+
+Docker Container -ls a
+
+Docker Container rm 63f 690 0de
+
+
+Docker Container rm -f 63f
+
+
+Docker Container ls-a
